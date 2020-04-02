@@ -1,5 +1,6 @@
 {
   "email_address": "my_email_address",
   "password": "my_password",
+  "api_key": "my_api_key",
   "start_date": "2017-01-01T00:00:00Z"
 }
