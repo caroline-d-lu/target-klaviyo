@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+setup.cfg
+target_klaviyo/__init__.py
+target_klaviyo.egg-info/PKG-INFO
+target_klaviyo.egg-info/SOURCES.txt
+target_klaviyo.egg-info/dependency_links.txt
+target_klaviyo.egg-info/entry_points.txt
+target_klaviyo.egg-info/requires.txt
+target_klaviyo.egg-info/top_level.txt
