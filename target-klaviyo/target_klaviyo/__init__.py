@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+Singer.io target for Klaviyo API
+Web: klaviyo.com
+Docs: https://www.klaviyo.com/docs
+"""
+
 import argparse
 import io
 import os
