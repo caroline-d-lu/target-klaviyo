@@ -8,4 +8,4 @@ target-klaviyo takes two types of input: a config file containing your Klaviyo c
 
 # Running
 
-`tap-name | target-klaviyo --config config.json
+`tap-name | target-klaviyo --config config.json`
